@@ -1,0 +1,41 @@
+.gm-navbar {
+    background-color: #353A40;
+    border-radius: 0px;
+}
+
+.gm-wrap {
+    padding-left: 32px;
+    padding-right: 32px;
+}
+
+.gm-brand-color {
+    color: #FFFFFF !important;
+}
+
+.gm-active-modified>a {
+    background-color: transparent !important;
+}
+
+.gm-mby-32 {
+    margin-bottom: 32px;
+}
+
+.gm-pxy-none {
+    padding: 0px;
+}
+
+.gm-mxy-none {
+    margin: 0px;
+}
+
+.gm-glyph {
+    font-size: 12px;
+}
+
+.gm-small-color {
+    color: #A3A3A3 !important;
+}
+
+.gm-line-height {
+    line-height: 22px;
+}
